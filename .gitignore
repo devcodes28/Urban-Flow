@@ -1,0 +1,17 @@
+
+# Node Modules
+node_modules/
+frontend/node_modules/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
